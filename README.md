@@ -4,12 +4,12 @@
 
 ### No terminal clone o projeto:
 ```git
-git clone https://github.com/Waichiro/API_BOOKS_DJANGO
+git clone https://github.com/Waichiro/API_BOOK_DJANGO
 ```    
 
 Entrar na pasta clonada:
 ```cmd
-cd API_BOOKS_DJANGO
+cd API_BOOK_DJANGO
 ```
 
 Ativar o virtualenv:
