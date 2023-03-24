@@ -65,5 +65,5 @@ Na rota para adicionar um livro, é usado esse JSON:
 |Gabriel Santos|americaezo1@gmail.com|Sim|Back-End|Ciências da Computação|
 
 
-[<img src="https://github.com/Waichiro.png" width=115 > <br> <sub> Gabriel Santos </sub>](https://github.com/Waichiro) |
+[<img src="https://github.com/Waichiro.png" width=115 > <br> <sub> Gabriel Santos </sub>](https://github.com/gabrielsantos969) |
 | :---: |  
